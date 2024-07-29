@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Local ignore
+build/
+.DS_Store
+LinearFit.xlsx
